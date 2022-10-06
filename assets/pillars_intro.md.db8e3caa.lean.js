@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a as s}from"./app.ae51eafc.js";const b=JSON.parse('{"title":"Introducci\xF3n","description":"","frontmatter":{},"headers":[],"relativePath":"pillars/intro.md"}'),r={name:"pillars/intro.md"},n=s("",7),i=[n];function t(c,l,p,d,u,m){return o(),a("div",null,i)}const f=e(r,[["render",t]]);export{b as __pageData,f as default};
