@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as a,a as r}from"./app.ae51eafc.js";const q=JSON.parse('{"title":"Director de Inform\xE1tica","description":"","frontmatter":{},"headers":[],"relativePath":"roles/it-director.md"}'),t={name:"roles/it-director.md"},s=r("",9),n=[s];function i(c,d,l,u,p,m){return a(),o("div",null,n)}const f=e(t,[["render",i]]);export{q as __pageData,f as default};

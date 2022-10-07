@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as n,a as o}from"./app.ae51eafc.js";const f=JSON.parse('{"title":"Incremento (funcional)","description":"","frontmatter":{},"headers":[],"relativePath":"artifacts/increment.md"}'),t={name:"artifacts/increment.md"},r=o("",5),i=[r];function c(s,d,l,p,m,u){return n(),a("div",null,i)}const b=e(t,[["render",c]]);export{f as __pageData,b as default};

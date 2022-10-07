@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as i}from"./app.ae51eafc.js";const _=JSON.parse('{"title":"Introducci\xF3n","description":"","frontmatter":{},"headers":[],"relativePath":"start/intro.md"}'),r={name:"start/intro.md"},s=i("",8),l=[s];function n(t,c,d,p,u,m){return o(),a("div",null,l)}const f=e(r,[["render",n]]);export{_ as __pageData,f as default};

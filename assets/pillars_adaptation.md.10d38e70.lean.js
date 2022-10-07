@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,a as o}from"./app.ae51eafc.js";const h=JSON.parse('{"title":"Adaptaci\xF3n","description":"","frontmatter":{},"headers":[],"relativePath":"pillars/adaptation.md"}'),n={name:"pillars/adaptation.md"},s=o("",14),i=[s];function t(c,l,p,d,u,m){return r(),a("div",null,i)}const q=e(n,[["render",t]]);export{h as __pageData,q as default};
