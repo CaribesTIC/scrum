@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as r}from"./app.3c34bf24.js";const _=JSON.parse('{"title":"Inspecci\xF3n.","description":"","frontmatter":{},"headers":[],"relativePath":"pillars/inspection.md"}'),i={name:"pillars/inspection.md"},n=r("",13),s=[n];function c(t,p,l,d,u,m){return o(),a("div",null,s)}const b=e(i,[["render",c]]);export{_ as __pageData,b as default};

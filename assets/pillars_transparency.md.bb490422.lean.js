@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a as r}from"./app.0f584d7b.js";const f=JSON.parse('{"title":"Transparencia","description":"","frontmatter":{},"headers":[],"relativePath":"pillars/transparency.md"}'),n={name:"pillars/transparency.md"},s=r("",12),i=[s];function t(l,c,d,p,u,m){return o(),a("div",null,i)}const v=e(n,[["render",t]]);export{f as __pageData,v as default};
